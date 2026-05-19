@@ -1,0 +1,13 @@
+{
+  "itemGroup.addoneconomics": "Example Mod Tab",
+  "block.addoneconomics.example_block": "Example Block",
+  "item.addoneconomics.example_item": "Example Item",
+
+  "addoneconomics.configuration.title": "AddonEconomics Configs",
+  "addoneconomics.configuration.section.addoneconomics.common.toml": "AddonEconomics Configs",
+  "addoneconomics.configuration.section.addoneconomics.common.toml.title": "AddonEconomics Configs",
+  "addoneconomics.configuration.items": "Item List",
+  "addoneconomics.configuration.logDirtBlock": "Log Dirt Block",
+  "addoneconomics.configuration.magicNumberIntroduction": "Magic Number Text",
+  "addoneconomics.configuration.magicNumber": "Magic Number"
+}
