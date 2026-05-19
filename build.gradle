@@ -126,8 +126,11 @@ configurations {
 }
 
 dependencies {
-    implementation "net.neoforged:neoforge:21.1.230"
-    implementation "curse.maven:modern-gui-1522468:8079425"
+
+    dependencies {
+        // Carrega o arquivo diretamente da sua pasta libs
+        implementation files('libs/modern_gui-1.0.jar')
+    }
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
